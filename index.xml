@@ -1,12 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-<url>
-  <loc>https://fc-game.github.io/#/</loc>
-  <lastmod>2022-10-30T15:16:15+00:00</lastmod>
-</url>
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FC Game</title>
+    <link>https://fc-game.github.io/</link>
+    <description>Recent content on MADAOU</description>
+    <generator>fc-game.github.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 30 October 2022 15:16:15 +0000</lastBuildDate>
+    <atom:link href="https://fc-game.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FC Game</title>
+      <link>https://fc-game.github.io/</link>
+      <pubDate>Sun, 30 October 2022 15:16:15 +0000</pubDate>
+      <guid>https://fc-game.github.io/</guid>
+      <description>一番人気の無料のFCゲーム</description>
+    </item>
+  </channel>
+</rss>
