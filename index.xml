@@ -2,19 +2,19 @@
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FC Game</title>
+    <title>Family Computer Games</title>
     <link>https://fc-game.github.io/</link>
     <description>Recent content on MADAOU</description>
     <generator>fc-game.github.io</generator>
-    <language>ja</language>
+    <language>zh</language>
     <lastBuildDate>Sun, 30 October 2022 15:16:15 +0000</lastBuildDate>
     <atom:link href="https://fc-game.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>FC Game</title>
+      <title>Family Computer Games</title>
       <link>https://fc-game.github.io/</link>
       <pubDate>Sun, 30 October 2022 15:16:15 +0000</pubDate>
       <guid>https://fc-game.github.io/</guid>
-      <description>一番人気の無料のFCゲーム</description>
+      <description>一番人気の無料のFamily Computer Games</description>
     </item>
   </channel>
 </rss>
