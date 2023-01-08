@@ -6,7 +6,7 @@
 
 # ✔关于本网站
 
-这是一个在线的FC红白机的游戏网站，该网站是基于React开发出来的网站。
+这是一个在线的FC红白机的游戏网站，该网站是基于React开发出来的网站。  
 里面使用到的Package：
 - bootstrap
 - jsnes  👉 解析红白机的核心Package
@@ -42,7 +42,15 @@
 
 ## 联系信息
 
-请联系我们，如果您有任何疑问。
+请联系我们，如果您有任何疑问。  
 邮箱: madaouu@gmail.com
 
-# ✔本网站的隐私政策
+# ✔关于作者
+
+- [个人博客](https://knowstechnic.blogspot.com)
+- [Github]( https://github.com/MADAOU)
+- [Facebook](https://www.facebook.com/people/Ryu-Seiri/100087864783411)
+- [Twitter](https://twitter.com/Seiriryu)
+- [Qiita](https://qiita.com/Seiri)
+- [BiliBili](https://space.bilibili.com/140506788)
+- [西瓜视频](https://www.ixigua.com/home/3760762998497312)
