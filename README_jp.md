@@ -2,7 +2,7 @@
 
 [![pages-build-deployment](https://github.com/fc-game/fc-game.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/fc-game/fc-game.github.io/actions/workflows/pages/pages-build-deployment)
 
-[English](./README.md)｜ 日本語 | [简体中文](./README_zh.md)
+[English](./README.md) ｜ 日本語 | [简体中文](./README_zh.md)
 
 # ✔ 当サイトについて
 
@@ -12,7 +12,7 @@
 
 - bootstrap
 
-- jsnes 👉 紅白機のコア Package を解析する
+- jsnes 👉 ファミコンゲームのコア Package
 
 - raven-js
 
@@ -56,20 +56,12 @@
 
 ご質問があれば、お問い合わせください。
 
-メールアドレス：madaouu@gmail.com
-
 # ✔ 作者について
 
--[個人ブログ]（https://knowstechnic.blogspot.com)
-
+- [個人ブログ]（https://knowstechnic.blogspot.com)
 - [Github](https://github.com/RyuSeiri)
-
 - [Facebook](https://www.facebook.com/people/Ryu-Seiri/100087864783411)
-
 - [Twitter](https://twitter.com/Seiriryu)
-
 - [Qiita](https://qiita.com/Seiri)
+- [YouTube](https://www.youtube.com/channel/UCph3vDUIHt68iR0vtHbChaw)
 
-- [BiliBili](https://space.bilibili.com/140506788)
-
--[スイカ動画]（https://www.ixigua.com/home/3760762998497312)

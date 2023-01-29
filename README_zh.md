@@ -2,7 +2,7 @@
 # Family Computer Game
  [![pages-build-deployment](https://github.com/fc-game/fc-game.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/fc-game/fc-game.github.io/actions/workflows/pages/pages-build-deployment)
 
-[English](./README.md)｜ [日本語](./README_jp.md) | 简体中文
+[English](./README.md) ｜ [日本語](./README_jp.md) ｜ 简体中文
 
 # ✔关于本网站
 
@@ -42,8 +42,7 @@
 
 ## 联系信息
 
-请联系我们，如果您有任何疑问。  
-邮箱: madaouu@gmail.com
+如果您有任何疑问,请联系我们。  
 
 # ✔关于作者
 
@@ -51,6 +50,5 @@
 - [Github]( https://github.com/RyuSeiri)
 - [Facebook](https://www.facebook.com/people/Ryu-Seiri/100087864783411)
 - [Twitter](https://twitter.com/Seiriryu)
-- [Qiita](https://qiita.com/Seiri)
 - [BiliBili](https://space.bilibili.com/140506788)
 - [西瓜视频](https://www.ixigua.com/home/3760762998497312)

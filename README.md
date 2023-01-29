@@ -3,7 +3,7 @@
 
 [![pages-build-deployment]( https://github.com/fc-game/fc-game.github.io/actions/workflows/pages/pages-build-deployment/badge.svg )]( https://github.com/fc-game/fc-game.github.io/actions/workflows/pages/pages-build-deployment )
 
-English｜ [日本語](./README_jp.md) | [简体中文](./README_zh.md)
+English ｜ [日本語](./README_jp.md) | [简体中文](./README_zh.md)
 
 # ✔ About this website
 
@@ -49,8 +49,6 @@ This website uses Google Analytics as an analysis tool, and Google Analytics may
 ## Contact Information
 
 Please contact us if you have any questions.
-
-Email: madaouu@gmail.com
 
 # ✔ About author
 
