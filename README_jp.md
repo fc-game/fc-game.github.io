@@ -2,7 +2,7 @@
 
 [![pages-build-deployment](https://github.com/fc-game/fc-game.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/fc-game/fc-game.github.io/actions/workflows/pages/pages-build-deployment)
 
-[English](./README.md) ｜ 日本語 | [简体中文](./README_zh.md)
+[English](./README.md) | 日本語 | [简体中文](./README_zh.md)
 
 # ✔ 当サイトについて
 
@@ -58,7 +58,7 @@
 
 # ✔ 作者について
 
-- [個人ブログ]（https://knowstechnic.blogspot.com)
+- [個人ブログ](https://knowstechnic.blogspot.com)
 - [Github](https://github.com/RyuSeiri)
 - [Facebook](https://www.facebook.com/people/Ryu-Seiri/100087864783411)
 - [Twitter](https://twitter.com/Seiriryu)
