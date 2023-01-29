@@ -2,7 +2,7 @@
 # Family Computer Game
  [![pages-build-deployment](https://github.com/fc-game/fc-game.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/fc-game/fc-game.github.io/actions/workflows/pages/pages-build-deployment)
 
-[English](./README.md)｜中文简体
+[English](./README.md)｜ [日本語](./README_jp.md) | 简体中文
 
 # ✔关于本网站
 
