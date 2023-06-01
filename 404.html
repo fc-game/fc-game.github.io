@@ -1,0 +1,338 @@
+<!doctype html>
+<html dir="ltr" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b"
+    xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr">
+
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <meta content="width=device-width,initial-scale=1" name="viewport" />
+    <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+    <meta name="generator" content="Games Web Site" />
+    <meta property="twitter:title" content="Family Computer Games | Seiri">
+    <link rel="icon" href="./favicon.ico" type="image/x-icon" />
+    <link rel="canonical" href="https://fc-game.eu.org">
+    <meta property="og:url" content="https://fc-game.eu.org">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.5;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            background-color: #484049;
+            color: #fff;
+            padding: 3em 2em 2em;
+            cursor: default;
+        }
+
+        .header .title {
+            font-family: "Chakra Petch";
+            color: #fff;
+            font-weight: 700;
+            text-transform: uppercase;
+            user-select: none;
+        }
+
+        .header nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header nav li {
+            display: inline-block;
+            padding: 0;
+        }
+
+        .header nav div {
+            color: #fff;
+            text-decoration: none;
+            padding: 14px 16px;
+            cursor: pointer;
+            font-size: 25px;
+        }
+
+        .header nav div:hover {
+            background-color: #fff;
+            color: #333 !important;
+            cursor: pointer;
+        }
+
+        @media (max-width: 768px) {
+            .header .title {
+                font-family: "Chakra Petch";
+                color: #fff;
+                font-size: 20px;
+                text-transform: uppercase;
+                user-select: none;
+            }
+
+            nav {
+                text-align: left;
+            }
+
+            nav ul {
+                display: none;
+            }
+
+            nav li {
+                margin-right: 0;
+                margin-bottom: 10px;
+            }
+
+            nav a {
+                display: block;
+            }
+        }
+
+        .error-page-container {
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            min-width: 0;
+            word-wrap: break-word;
+            background: linear-gradient(178.07deg, #d4c710 -9.74%, #fcf192 82.69%);
+            background-clip: border-box;
+            border: 1px solid rgba(214, 214, 214, 0.125);
+            border-radius: 0.25rem;
+            padding: 1.5em;
+            min-height: 700px;
+        }
+
+        .error-title {
+            margin: 1em auto !important;
+            border-bottom: 1px solid #000 !important;
+        }
+
+        .error-description {
+            margin: 1em auto !important;
+            font-family: "Chakra Petch";
+            font-weight: 400;
+            font-size: 21px !important;
+            line-height: 27px;
+            color: #000;
+        }
+
+        .footer {
+            margin-top: auto;
+            padding-left: 1em;
+            padding-right: 1em;
+            position: relative;
+            overflow: hidden;
+            padding: 1em 0 1em 0;
+            background: #2b252c;
+            color: #fff;
+            border-radius: 0.2em;
+            user-select: none;
+        }
+
+        a {
+            text-decoration: none !important;
+        }
+
+        .label {
+            color: #ced120;
+        }
+
+        .footer ul {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .footer ul li {
+            list-style: circle;
+            width: 9em;
+        }
+
+        .footer li a {
+            text-align: center;
+            border-radius: 100%;
+            color: inherit;
+            font-size: 20px;
+        }
+
+        .footer header {
+            margin: 0 0 1em 0;
+            margin: auto;
+        }
+
+        .footer-title {
+            font-size: 20px;
+            font-weight: 500;
+            margin-bottom: 1em;
+        }
+
+        .footer .copyright {
+            text-align: center;
+            color: rgba(201, 198, 198, 0.75);
+            font-size: 0.8em;
+            cursor: default;
+        }
+
+        .footer .copyright a {
+            color: rgba(128, 128, 128, 0.75);
+        }
+
+        .footer .copyright a:hover {
+            color: rgba(212, 212, 212, 0.85);
+        }
+
+
+        @media (min-width: 1200px) {
+            .container {
+                max-width: 1140px;
+            }
+        }
+
+        .container {
+            width: 100%;
+            padding-right: 15px;
+            padding-left: 15px;
+            margin-right: auto;
+            margin-left: auto;
+        }
+
+
+        .h1,
+        h1 {
+            font-size: 2.5rem;
+        }
+
+        .h1,
+        .h2,
+        .h3,
+        .h4,
+        .h5,
+        .h6,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+            line-height: 1.2;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            margin-top: 0;
+            margin-bottom: 0.5rem;
+        }
+
+        h1,
+        h2 {
+            font-weight: bold;
+            margin: 1.5em 0 1em;
+        }
+
+        *,
+        ::after,
+        ::before {
+            box-sizing: border-box;
+        }
+
+        h1 {
+            display: block;
+            font-size: 2em;
+            margin-block-start: 0.67em;
+            margin-block-end: 0.67em;
+            margin-inline-start: 0px;
+            margin-inline-end: 0px;
+            font-weight: bold;
+        }
+    </style>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4988552421895566"
+        crossorigin="anonymous"></script>
+    <script
+        type="text/javascript">!function (t, e, n, a, c, i, r) { t[n] = t[n] || function () { (t[n].q = t[n].q || []).push(arguments) }, (i = e.createElement(a)).async = 1, i.src = "https://www.clarity.ms/tag/fai5gi2p9f", (r = e.getElementsByTagName(a)[0]).parentNode.insertBefore(i, r) }(window, document, "clarity", "script")</script>
+    <title>Family Computer Games | 404</title>
+</head>
+
+<body>
+    <header class="header">
+        <h1 class="title">Family Computer Games</h1>
+        <nav>
+            <ul>
+                <li>
+                    <div href='/'>Home</div>
+                </li>
+                <li>
+                    <div href='/about'>About</div>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="error-page-container">
+        <h1 class="error-title">404</h1>
+        <p class="error-description">Page Not Found</p>
+        <p class="error-description">
+            click <a href="/">here</a> to go home page
+        </p>
+    </div>
+
+    <div class="footer">
+        <div class="container">
+
+            <section class="contact">
+                <div class="footer-title">
+                    👏Welcome and thank you for visiting my site, This is a free FC game site.
+                </div>
+                <ul>
+                    <li>
+                        <a href="https://github.com/RyuSeiri" target="_blank" rel="noreferrer">
+                            <span class="label">Github</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/Seiriryu" target="_blank" rel="noreferrer">
+                            <span class="label">Twitter</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/people/Ryu-Seiri/100087864783411/" target="_blank"
+                            rel="noreferrer">
+                            <span class="label">Facebook</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://seiri-blog.github.io" target="_blank" rel="noreferrer">
+                            <span class="label">Blog</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://qiita.com/Seiri" target="_blank" rel="noreferrer">
+                            <span class="label">Qiita</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://space.bilibili.com/140506788" target="_blank" rel="noreferrer">
+                            <span class="label">BiliBili</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UCph3vDUIHt68iR0vtHbChaw" target="_blank"
+                            rel="noreferrer">
+                            <span class="label">Youtube</span>
+                        </a>
+                    </li>
+                </ul>
+            </section>
+            <div class="copyright">
+                &copy; 2023 Seiri All rights reserved.
+            </div>
+        </div>
+    </div>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PH5TN0CPTB"></script>
+    <script>function gtag() { dataLayer.push(arguments) } window.dataLayer = window.dataLayer || [], gtag("js", new Date)</script>
+</body>
+
+</html>
