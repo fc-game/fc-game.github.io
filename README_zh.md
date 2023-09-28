@@ -46,9 +46,8 @@
 
 # ✔关于作者
 
-- [个人博客](https://knowstechnic.blogspot.com)
+- [个人博客](https://seiri-blog.github.io)
 - [Github]( https://github.com/RyuSeiri)
 - [Facebook](https://www.facebook.com/people/Ryu-Seiri/100087864783411)
 - [Twitter](https://twitter.com/Seiriryu)
 - [BiliBili](https://space.bilibili.com/140506788)
-- [西瓜视频](https://www.ixigua.com/home/3760762998497312)

@@ -52,7 +52,7 @@ Please contact us if you have any questions.
 
 # ✔ About author
 
-- [Blog](https://knowstechnic.blogspot.com)
+- [Blog](https://seiri-blog.github.io)
 - [Github](https://github.com/RyuSeiri)
 - [Facebook](https://www.facebook.com/people/Ryu-Seiri/100087864783411)
 - [Twitter](https://twitter.com/Seiriryu)
