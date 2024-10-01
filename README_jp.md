@@ -56,7 +56,3 @@
 
 ご質問があれば、お問い合わせください。
 
-# ✔ 作者について
-
-- [Github](https://github.com/RyuSeiri)
-
