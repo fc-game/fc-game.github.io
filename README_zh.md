@@ -43,7 +43,3 @@
 ## 联系信息
 
 如果您有任何疑问,请联系我们。  
-
-# ✔关于作者
-
-- [Github]( https://github.com/RyuSeiri)
