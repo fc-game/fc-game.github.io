@@ -49,7 +49,3 @@ This website uses Google Analytics as an analysis tool, and Google Analytics may
 ## Contact Information
 
 Please contact us if you have any questions.
-
-# ✔ About author
-
-- [Github](https://github.com/RyuSeiri)
