@@ -58,10 +58,5 @@
 
 # ✔ 作者について
 
-- [個人ブログ](https://seiri-blog.github.io)
 - [Github](https://github.com/RyuSeiri)
-- [Facebook](https://www.facebook.com/people/Ryu-Seiri/100087864783411)
-- [Twitter](https://twitter.com/Seiriryu)
-- [Qiita](https://qiita.com/Seiri)
-- [YouTube](https://www.youtube.com/channel/UCph3vDUIHt68iR0vtHbChaw)
 
